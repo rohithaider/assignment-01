@@ -132,7 +132,7 @@ inspiration-details{
     margin: 40px 132px 134px 135px;  
     display: flex;
     justify-content: center;
-    border: 1px solid rgba(128, 128, 128, 0.5);
+    border: 1px solid rgba(0, 0, 0, 0.5);
 }
 .frame>iframe{
     border-radius: 16px;
