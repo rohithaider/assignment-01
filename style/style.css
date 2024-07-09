@@ -127,8 +127,8 @@ inspiration-details{
     border-radius: 16px;
     padding: 30px;
     background-color: rgba(13, 19, 33, 0.02);
-    /* fixed this bug for deployed github-page alignment. put margin left and right auto to equally taking space */
-    margin: 0 auto 134px auto;  
+    /* fixed this bug for deployed github-page alignment. put margin left value again and right value again to test */
+    margin: 0 132px 134px 135px;  
     display: flex;
     justify-content: center;
 }
