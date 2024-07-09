@@ -92,7 +92,7 @@ semi-card-image{
     height: 214px;
 }
 semi-card-title{
-    font-size: 24px;;
+    font-size:24px;
 
 }
 .semi-card-details{
@@ -107,4 +107,23 @@ semi-card-title{
 }
 .semi-card-image-2{
     margin-right: 30px;
+}
+
+/* Inspiration section style */
+.inspiration-details{
+    text-align: center;
+}
+.inspiration-details>h2{
+    font-size: 29px;
+}
+.frame{
+    border-radius: 16px;
+    padding: 30px;
+    background-color: rgba(13, 19, 33, 0.02);
+    margin-left: 132px;
+    margin-right: 135px;
+    margin-bottom: 134px;
+}
+.frame>iframe{
+    border-radius: 16px;
 }
