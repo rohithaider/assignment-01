@@ -110,6 +110,10 @@ semi-card-title{
 }
 
 /* Inspiration section style */
+inspiration-details{
+    text-align: center;
+    margin:0 auto;
+}
 
 .inspiration-details>h2{
     font-size: 29px;
@@ -122,9 +126,9 @@ semi-card-title{
     border-radius: 16px;
     padding: 30px;
     background-color: rgba(13, 19, 33, 0.02);
-    margin-left: 132px;
-    margin-right: 135px;
-    margin-bottom: 134px;
+    margin: 0 auto 134px auto; 
+    display: flex;
+    justify-content: center;
 }
 .frame>iframe{
     border-radius: 16px;
