@@ -112,6 +112,7 @@ semi-card-title{
 /* Inspiration section style */
 inspiration-details{
     text-align: center;
+    /* fixed this bug for aligning the parent div */
     margin:0 auto;
 }
 
@@ -126,7 +127,8 @@ inspiration-details{
     border-radius: 16px;
     padding: 30px;
     background-color: rgba(13, 19, 33, 0.02);
-    margin: 0 auto 134px auto; 
+    /* fixed this bug for deployed github-page alignment. put margin left and right auto to equally taking space */
+    margin: 0 auto 134px auto;  
     display: flex;
     justify-content: center;
 }
