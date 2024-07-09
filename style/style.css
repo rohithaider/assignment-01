@@ -110,11 +110,13 @@ semi-card-title{
 }
 
 /* Inspiration section style */
-.inspiration-details{
-    text-align: center;
-}
+
 .inspiration-details>h2{
     font-size: 29px;
+    text-align: center;
+}
+.inspiration-details>p{
+    text-align: center;
 }
 .frame{
     border-radius: 16px;
