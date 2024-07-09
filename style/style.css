@@ -129,9 +129,10 @@ inspiration-details{
     padding: 30px;
     background-color: rgba(13, 19, 33, 0.02);
     /* fixed this bug for deployed github-page alignment. put margin left value again and right value again to test */
-    margin: 43px 132px 134px 135px;  
+    margin: 40px 132px 134px 135px;  
     display: flex;
     justify-content: center;
+    border: 2px solid rgba(128, 128, 128, 0.2);
 }
 .frame>iframe{
     border-radius: 16px;
