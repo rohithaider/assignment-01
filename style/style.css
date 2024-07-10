@@ -137,3 +137,43 @@ inspiration-details{
 .frame>iframe{
     border-radius: 16px;
 }
+
+/* Target section style */
+.target{
+    margin:0px 134px 99px 134px;
+
+}
+.target-cards{
+    display: flex;
+    justify-content:center;
+    gap: 24px;   
+    
+}
+.target-card{
+    flex: 1;
+}
+
+.center{
+    text-align:center;
+}
+.target-card-html{
+    background: rgba(255, 76, 30, 0.05);
+    border-radius: 16px;
+    padding: 40px;
+}
+.target-card-css{
+    background: rgba(0, 76, 232, 0.05);
+    border-radius: 16px;
+    padding: 40px;
+}
+.target-card-js{
+    background: rgba(255, 223, 0, 0.05);
+    border-radius: 16px;
+    padding: 40px;
+}
+.target-cards a{
+    color: black;
+}
+.target>p{
+    margin-bottom: 45px;
+}
