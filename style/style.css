@@ -208,3 +208,12 @@ inspiration-details{
     padding: 19px;
     border-radius: 8px;
 }
+footer{
+    display: flex;
+    justify-content: space-between;
+    padding: 28.48px 133.5px;
+    align-items: center;
+    background-color: rgba(13, 19, 33, 0.03);
+    font-weight: 600;
+    font-family: "Azeret Mono";
+}
