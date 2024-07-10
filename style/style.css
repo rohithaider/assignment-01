@@ -177,3 +177,34 @@ inspiration-details{
 .target>p{
     margin-bottom: 45px;
 }
+.support-details{
+    background-image:linear-gradient(0deg, rgb(16, 16, 16) -19.5%,rgba(16, 16, 16, 0) 100%), url("../assets/handshake.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 1015px;
+    height: 279px;
+    margin:135px;
+    border-radius: 16px;
+    text-align: center;
+}
+.support-header{
+    color: white;
+    padding-top: 57px;
+}
+.support-info{
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 14px;
+}
+.support-input{
+    padding: 19px;
+    width: 488px;
+    border-radius: 8px;
+}
+.support-submit{
+    font-weight: 600;
+    font-family: "Azeret Mono";
+    padding: 19px;
+    border-radius: 8px;
+}
