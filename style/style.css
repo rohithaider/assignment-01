@@ -217,6 +217,6 @@ footer{
     font-weight: 600;
     font-family: "Azeret Mono";
 }
-footer a{
-    text-decoration: none;
+#footer a{
+    text-decoration:none;
 }
